@@ -1,0 +1,11 @@
+[package]
+name = "region_smuggler"
+version = "0.1.0"
+authors = ["rph <rphsoftware@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hematite-nbt = "0.4.1"
+memmap = "0.7.0"
